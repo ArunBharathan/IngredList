@@ -1,0 +1,18 @@
+[
+	{ "name":"colgate",
+	"ingr":["Triclosan","Sodium Lauryl Sulfate","Artificial Sweeteners","Fluoride","Propylene Glycol","Diethanolamine","Microbeads"]
+},
+{ "name":"britannia good day",
+	"ingr":["Ammonium Bicarbonate","Sodium Bicarbonate","Mono Diglycerides of Vegetable origin","Soya Lecithin (E322)"]
+},
+{ "name":"pepsi",
+	"ingr":["high fructose corn syrup","caramel color","sugar","phosphoric acid","caffeine","citric acid","natural flavors"]
+},
+{ "name":"lays",
+	"ingr":["Sugar","Dextrose","Salt","Malted Barley Flour","Spices","Corn Starch","Yeast Extract"]
+},
+{ "name":"oreo",
+	"ingr":["Sugar","wheat flour","niacin","iron","thiamine mono-nitrate","folic acid","riboflavin"]
+}
+
+]
